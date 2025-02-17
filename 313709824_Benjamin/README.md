@@ -1,7 +1,7 @@
 
 
 
-## MAP
+## Map
 
 ## Food
 
