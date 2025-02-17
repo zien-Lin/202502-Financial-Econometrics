@@ -12,4 +12,5 @@
 <img width="443" alt="FOOD" src="https://github.com/user-attachments/assets/35359010-b491-48b3-b765-ab0937ee70e7" />
 
 ## Smiles
-<img width="444" alt="SMILE" src="https://github.com/user-attachments/assets/511e46a1-ac85-4b78-a752-0e98ee6e2578" />
+<img width="444" alt="SMILE" src="https://github.com/user-attachments/assets/05aa22dd-5213-42f5-9b60-137294cab6e9" />
+
