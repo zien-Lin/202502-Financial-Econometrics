@@ -1,7 +1,7 @@
 #
 
-##MAP
+## MAP
 
-##FOOD
+## FOOD
 
-##SMILES
+## SMILES
