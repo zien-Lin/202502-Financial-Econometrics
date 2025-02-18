@@ -15,4 +15,4 @@
 ## Smiles
 
 <img width="300" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLFduTOpTA04MErumoAkzVFUZX4wYw0Uj0A&s" />
-<img width="300" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIkfFR5dWWI4QO_Cu4mjy9aZL_j1ruZRVtg&s" />
+<img width="300" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpW-NuTLuMrwOLMUGhx0uBA6U7W4NwjUp2Q&s" />
