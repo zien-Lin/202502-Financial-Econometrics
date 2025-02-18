@@ -15,3 +15,5 @@
 
 
 ## Smiles
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/811b0631-d931-47c3-bbf2-2658a55dd3c1" />
