@@ -14,5 +14,5 @@
 
 ## Smiles
 
-![image]https://github.com/HungWei729/1/blob/main/%E4%B8%8B%E8%BC%89.jfif
+![image](https://github.com/HungWei729/1/blob/main/%E4%B8%8B%E8%BC%89.jfif)
 
