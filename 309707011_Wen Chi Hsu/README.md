@@ -1,7 +1,7 @@
 
-# Elaine 陳亭秀
+# Jenny 許玟琪
 
-*Created by Elaine on 20250218*
+*Created by Jenny on 20250219*
 
 [My gitHUB webapge](https://github.com/WenC09)
 
@@ -13,8 +13,8 @@
 
 ## Food
 
-<img width="316" alt="image" src="https://github.com/user-attachments/assets/050004c0-2f36-4463-81cc-8cef8f6d02aa" />
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/c00024aa-ba2b-42d6-887d-911c8db5b8d9" />
 
 ## Smiles
 
-<img width="316" alt="image" src="https://github.com/user-attachments/assets/cb47bcf8-6c52-4903-b0e6-6ffed80d6e3c" />
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/62ba8632-faa1-4cdd-b05a-d794c25389db" />
