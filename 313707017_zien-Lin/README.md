@@ -18,6 +18,5 @@
 
 ## Smiles
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/16a76bd7-dfd9-4674-9588-3de2ebd01ff7" />
-<img width="316" alt="image" src="https://github.com/user-attachments/assets/c4595edc-dc3e-4409-a3d6-3ae80fafdd49" />
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/6725df3c-6cc0-49d9-8518-a2e3f2123489" />
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/e40d82db-e703-4157-8b03-392c18d9125d" />
